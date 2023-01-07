@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1664960687314" clover="3.2.0">
+  <project timestamp="1664960687315" name="All files">
+    <metrics statements="21" coveredstatements="21" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3" elements="28" coveredelements="28" complexity="0" loc="21" ncloc="21" packages="1" files="1" classes="1"/>
+    <file name="palindromeChainLength.js" path="/Users/zsuzsannagyori/Documents/Codecool/projects/jest-the-beginning-react/palindromeChainLength.js">
+      <metrics statements="21" coveredstatements="21" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+      <line num="2" count="257" type="stmt"/>
+      <line num="3" count="257" type="stmt"/>
+      <line num="4" count="257" type="stmt"/>
+      <line num="5" count="257" type="stmt"/>
+      <line num="6" count="257" type="stmt"/>
+      <line num="10" count="131" type="stmt"/>
+      <line num="11" count="131" type="stmt"/>
+      <line num="15" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="19" count="3" type="stmt"/>
+      <line num="20" count="3" type="stmt"/>
+      <line num="21" count="3" type="stmt"/>
+      <line num="23" count="3" type="stmt"/>
+      <line num="24" count="125" type="stmt"/>
+      <line num="25" count="125" type="stmt"/>
+      <line num="26" count="125" type="stmt"/>
+      <line num="27" count="125" type="cond" truecount="2" falsecount="0"/>
+      <line num="28" count="2" type="stmt"/>
+      <line num="30" count="123" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
